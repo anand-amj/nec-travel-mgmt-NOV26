@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="54e0fe8f83520b10cf1ccdc6feaad349" extends="task" label="Nec booking details" max_length="40" name="x_2002450_nec_tr_0_nec_booking_details" type="collection">
+        <element label="Visa Details" max_length="40" name="visa_details" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Travel Type" max_length="40" name="travel_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Domestic" sequence="1" value="domestic"/>
+                <element inactive_on_update="false" label="Internationl" sequence="0" value="internationl"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Destination" max_length="32" name="destination" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Return" max_length="40" name="return" type="boolean"/>
+        <element label="Passport Details" max_length="40" name="passport_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="From" max_length="32" name="from" reference="cmn_location" type="reference"/>
+        <element label="Manager" max_length="40" name="manager" type="string"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

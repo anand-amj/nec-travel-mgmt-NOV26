@@ -13,9 +13,9 @@
         <sys_id>475b3af04723031078158c1f316d4326</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>com.snc.pa.replication.status</sys_name>
-        <sys_package display_value="">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
         <sys_policy/>
-        <sys_scope display_value="">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
         <sys_update_name>sys_properties_475b3af04723031078158c1f316d4326</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-08-02 09:00:05</sys_updated_on>

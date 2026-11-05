@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">742a2037715332100a229b13380c8b45</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">d521b6f78c5103100a22deb6dd2b4e5d</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-07-30 06:08:09</sys_created_on>
-        <sys_id>68e0fe8f83520b10cf1ccdc6feaad375</sys_id>
+        <sys_id>d12a4c7647981b1078158c1f316d43d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
         <sys_updated_by>admin</sys_updated_by>
