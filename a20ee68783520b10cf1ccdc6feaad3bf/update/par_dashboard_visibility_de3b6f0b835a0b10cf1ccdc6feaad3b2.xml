@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="NEC Dashboard">8a3b6f0b835a0b10cf1ccdc6feaad36e</dashboard>
+        <experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 10:23:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de3b6f0b835a0b10cf1ccdc6feaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_visibility_de3b6f0b835a0b10cf1ccdc6feaad3b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 10:23:02</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

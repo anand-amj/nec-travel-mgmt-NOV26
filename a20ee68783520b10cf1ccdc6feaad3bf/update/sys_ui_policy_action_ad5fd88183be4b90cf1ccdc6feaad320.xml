@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>manager</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-17 10:56:10</sys_created_on>
+        <sys_id>ad5fd88183be4b90cf1ccdc6feaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>manager</sys_name>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ad5fd88183be4b90cf1ccdc6feaad320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-17 10:56:10</sys_updated_on>
+        <table>x_2002450_nec_tr_0_nec_booking_details</table>
+        <ui_policy display_value="read only manger and title">41ce184183be4b90cf1ccdc6feaad33d</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad5fd88183be4b90cf1ccdc6feaad320"/>
+</record_update>

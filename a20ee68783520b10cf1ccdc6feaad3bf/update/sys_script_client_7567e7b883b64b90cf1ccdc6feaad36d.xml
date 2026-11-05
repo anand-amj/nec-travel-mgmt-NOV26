@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>destination</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>get weather infor</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   //Type appropriate comment here, and begin script below
+	g_form.getReference("destination",InvokeApi);
+
+	function InvokeApi(desti){
+		var ga = new GlideAjax("x_2002450_nec_tr_0.getweatherinfo");
+		ga.addParam("sysparm_name", "getInfo");
+		ga.addParam("sysparm_city", desti.city);
+		ga.addParam("sysparm_cont", desti.country);
+		ga.getXMLAnswer(function(res){
+			g_form.showErrorBox('destination', res);
+		});
+
+	}
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-17 06:53:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7567e7b883b64b90cf1ccdc6feaad36d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>get weather infor</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>sys_script_client_7567e7b883b64b90cf1ccdc6feaad36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-17 07:47:35</sys_updated_on>
+        <table>x_2002450_nec_tr_0_nec_booking_details</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

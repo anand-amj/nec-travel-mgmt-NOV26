@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NEC Travel Mgmt">763fa28b83520b10cf1ccdc6feaad34c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NEC Booking Details</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_2002450_nec_tr_0_nec_booking_details</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_2002450_nec_tr_0.admin,x_2002450_nec_tr_0.developer,x_2002450_nec_tr_0.user</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 06:16:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b727e8383920b10cf1ccdc6feaad396</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NEC Booking Details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>sys_app_module_7b727e8383920b10cf1ccdc6feaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 07:37:44</sys_updated_on>
+        <timeline_page/>
+        <title>NEC Booking Details</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name>necemp</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

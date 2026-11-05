@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>nec</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-07 07:52:46</sys_created_on>
+        <sys_id>4b8558f1836e8f10cf1ccdc6feaad339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nec</sys_name>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>sys_ui_view_4b8558f1836e8f10cf1ccdc6feaad339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-07 07:52:46</sys_updated_on>
+        <title>Nec</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

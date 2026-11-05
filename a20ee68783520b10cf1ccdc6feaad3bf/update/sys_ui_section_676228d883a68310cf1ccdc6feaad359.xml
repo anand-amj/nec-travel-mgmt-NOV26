@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Assignment To" section_id="676228d883a68310cf1ccdc6feaad359" sys_domain="global" table="x_2002450_nec_tr_0_nec_booking_details" version="3" view="necemp">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:58:11</sys_created_on>
+            <sys_id>f36228d883a68310cf1ccdc6feaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment To" display_value="Assignment To" name="x_2002450_nec_tr_0_nec_booking_details" sys_domain="global" view="88b02cd483a68310cf1ccdc6feaad3e7">676228d883a68310cf1ccdc6feaad359</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reassignment_count</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:58:11</sys_created_on>
+            <sys_id>736228d883a68310cf1ccdc6feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment To" display_value="Assignment To" name="x_2002450_nec_tr_0_nec_booking_details" sys_domain="global" view="88b02cd483a68310cf1ccdc6feaad3e7">676228d883a68310cf1ccdc6feaad359</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:58:11</sys_created_on>
+            <sys_id>ff6228d883a68310cf1ccdc6feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment To" display_value="Assignment To" name="x_2002450_nec_tr_0_nec_booking_details" sys_domain="global" view="88b02cd483a68310cf1ccdc6feaad3e7">676228d883a68310cf1ccdc6feaad359</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:58:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:58:11</sys_created_on>
+            <sys_id>7f6228d883a68310cf1ccdc6feaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment To" display_value="Assignment To" name="x_2002450_nec_tr_0_nec_booking_details" sys_domain="global" view="88b02cd483a68310cf1ccdc6feaad3e7">676228d883a68310cf1ccdc6feaad359</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Assignment To</caption>
+            <header>false</header>
+            <name>x_2002450_nec_tr_0_nec_booking_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>676228d883a68310cf1ccdc6feaad359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2002450_nec_tr_0_nec_booking_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+            <sys_update_name>sys_ui_section_676228d883a68310cf1ccdc6feaad359</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:58:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="necemp" name="necemp">88b02cd483a68310cf1ccdc6feaad3e7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

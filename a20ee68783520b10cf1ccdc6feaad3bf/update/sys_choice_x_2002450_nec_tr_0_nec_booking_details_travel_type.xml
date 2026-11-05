@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="travel_type" table="x_2002450_nec_tr_0_nec_booking_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>travel_type</element>
+            <name>x_2002450_nec_tr_0_nec_booking_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:47:44</sys_created_on>
+            <sys_id>fe00a09483a68310cf1ccdc6feaad3e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>travel_type</sys_name>
+            <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+            <sys_update_name>sys_choice_x_2002450_nec_tr_0_nec_booking_details_travel_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:47:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>travel_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internationl</label>
+            <language>en</language>
+            <name>x_2002450_nec_tr_0_nec_booking_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f600a09483a68310cf1ccdc6feaad3e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:47:44</sys_updated_on>
+            <value>internationl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>travel_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domestic</label>
+            <language>en</language>
+            <name>x_2002450_nec_tr_0_nec_booking_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 16:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3200a09483a68310cf1ccdc6feaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 16:47:44</sys_updated_on>
+            <value>domestic</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

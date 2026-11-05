@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">da3b6f0b835a0b10cf1ccdc6feaad3ae</canvas>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showHeader":true,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"limit":10,"columnLimit":0,"maxCharLimit":40,"columnPreferenceKey":"","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":false,"showColumnSorting":true,"parFilter":"","allowAdditionalGroupByPerMetric":false,"groupBy":[],"sortBy":null,"sortByOrder":"ORDERBY","followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"componentId":"422qgua0","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","filterConfigurations":"@state.parFilters","columns":null,"table":"x_2002450_nec_tr_0_nec_booking_details","groupByField":"","showLinks":true,"wrapCellContent":"useLineBreaksUserPref","showViewAll":false,"showInlineEditing":true,"allowListPagination":true,"lineClamp":1,"headerTitleAlignment":"start","showBorder":true,"showExportOption":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Nec booking details","sourceType":"table","tableOrViewName":"x_2002450_nec_tr_0_nec_booking_details","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzIwMDI0NTBfbmVjX3RyXzBfbmVjX2Jvb2tpbmdfZGV0YWlsczE3ODU0MDcyNjA2MTM=","dataCategories":["trend","group","simple"]}],"bareBorder":false,"additionalGroupByConfig":[],"showAdditionalGroupBySelector":false}</component_props>
+        <h>12</h>
+        <name/>
+        <required_translations>[{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.4a5ca7cb835a0b10cf1ccdc6feaad3b9","message":"No data available."},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.4a5ca7cb835a0b10cf1ccdc6feaad3b9","message":"There are no scores available for the selected criteria. Contact your admin for more info."},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.4a5ca7cb835a0b10cf1ccdc6feaad3b9","message":"Nec booking details"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 10:27:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a5ca7cb835a0b10cf1ccdc6feaad3b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_widget_4a5ca7cb835a0b10cf1ccdc6feaad3b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 10:34:38</sys_updated_on>
+        <visualization/>
+        <w>41</w>
+        <widget_props/>
+        <x>0</x>
+        <y>17</y>
+    </par_dashboard_widget>
+</record_update>

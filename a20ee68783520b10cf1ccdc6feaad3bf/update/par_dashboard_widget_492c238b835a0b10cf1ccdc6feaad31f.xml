@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">da3b6f0b835a0b10cf1ccdc6feaad3ae</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showXGrid":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"bar","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":false,"allowTotalValue":false,"indicatorType":"2","isScriptedIndicator":false,"label":"% high priority incidents","sourceType":"indicator","uuid":{"indicator":"5e0d524d47e5311062b0016c416d4353","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yNWUwZDUyNGQ0N2U1MzExMDYyYjAwMTZjNDE2ZDQzNTMxNjk4NjQ5NzM2Njg5","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"% high priority incidents","showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"metrics":[{"dataSource":"aW5kaWNhdG9yNWUwZDUyNGQ0N2U1MzExMDYyYjAwMTZjNDE2ZDQzNTMxNjk4NjQ5NzM2Njg5","id":"YVc1a2FXTmhkRzl5TldVd1pEVXlOR1EwTjJVMU16RXhNRFl5WWpBd01UWmpOREUyWkRRek5UTXhOams0TmpRNU56TTJOamc1MTY5ODY0OTczNzU1OQ==","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5TldVd1pEVXlOR1EwTjJVMU16RXhNRFl5WWpBd01UWmpOREUyWkRRek5UTXhOams0TmpRNU56TTJOamc1MTY5ODY0OTczNzU1OQ=="}]},"showChange":null,"showChangePercentage":null,"showTarget":true,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":false,"filterConfigurations":[],"contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"period":"M","dateFormat":"default","noDebounce":"","componentId":"dng5cr2e","description":"Percentage of P1 and P2 incidents that are successfully closed.","showLoadingIndicator":false}</component_props>
+        <h>12</h>
+        <name>% high priority incidents</name>
+        <required_translations>[{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.492c238b835a0b10cf1ccdc6feaad31f","message":"% high priority incidents"},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.492c238b835a0b10cf1ccdc6feaad31f","message":"% high priority incidents"},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.492c238b835a0b10cf1ccdc6feaad31f","message":"Percentage of P1 and P2 incidents that are successfully closed."},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.492c238b835a0b10cf1ccdc6feaad31f","message":"No data available."},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.492c238b835a0b10cf1ccdc6feaad31f","message":"There are no scores available for the selected criteria. Contact your admin for more info."}]</required_translations>
+        <stored_component display_value="% high priority incidents">56d3a400c35e3110458f1fec5440dd7f</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 10:27:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>492c238b835a0b10cf1ccdc6feaad31f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>% high priority incidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_widget_492c238b835a0b10cf1ccdc6feaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 10:34:38</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>0</x>
+        <y>5</y>
+    </par_dashboard_widget>
+</record_update>

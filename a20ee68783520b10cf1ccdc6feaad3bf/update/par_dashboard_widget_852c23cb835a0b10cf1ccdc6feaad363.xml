@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">da3b6f0b835a0b10cf1ccdc6feaad3ae</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"bar","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":false,"allowTotalValue":false,"indicatorType":"2","isScriptedIndicator":false,"label":"% Major incidents with associated Problem","sourceType":"indicator","uuid":{"indicator":"8b91b303c3d831101efc1fec5440dd3a","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yOGI5MWIzMDNjM2Q4MzExMDFlZmMxZmVjNTQ0MGRkM2ExNjk4OTE5NTI1MDAz","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":true,"showHeaderSeparator":true,"headerTitle":"% Major incidents associated with problems","headingLevel":2,"description":"Percentage of the major incidents with associated problem","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"metrics":[{"dataSource":"aW5kaWNhdG9yOGI5MWIzMDNjM2Q4MzExMDFlZmMxZmVjNTQ0MGRkM2ExNjk4OTE5NTI1MDAz","id":"YVc1a2FXTmhkRzl5T0dJNU1XSXpNRE5qTTJRNE16RXhNREZsWm1NeFptVmpOVFEwTUdSa00yRXhOams0T1RFNU5USTFNREF6MTY5ODkxOTUyNjMyNA==","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yOGI5MWIzMDNjM2Q4MzExMDFlZmMxZmVjNTQ0MGRkM2ExNjk4OTE5NTI1MDAz","groupByField":"0df47e02d7130100b96d45a3ce610399","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5T0dJNU1XSXpNRE5qTTJRNE16RXhNREZsWm1NeFptVmpOVFEwTUdSa00yRXhOams0T1RFNU5USTFNREF6MTY5ODkxOTUyNjMyNA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"period":"M","dateFormat":"default","noDebounce":"","showLoadingIndicator":false,"componentId":"2p13ziu9","filterPerMetric":[],"allowAdditionalGroupByPerMetric":true,"showMarkers":false}</component_props>
+        <h>12</h>
+        <name>% Major incidents associated with problems</name>
+        <required_translations>[{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.852c23cb835a0b10cf1ccdc6feaad363","message":"% Major incidents with associated Problem"},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.852c23cb835a0b10cf1ccdc6feaad363","message":"% Major incidents associated with problems"},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.852c23cb835a0b10cf1ccdc6feaad363","message":"Percentage of the major incidents with associated problem"},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.852c23cb835a0b10cf1ccdc6feaad363","message":"No data available."},{"comment":"","code":"PAR_DASHBOARD.da3b6f0b835a0b10cf1ccdc6feaad3ae.852c23cb835a0b10cf1ccdc6feaad363","message":"There are no scores available for the selected criteria. Contact your admin for more info."}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 10:27:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>852c23cb835a0b10cf1ccdc6feaad363</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>% Major incidents associated with problems</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_widget_852c23cb835a0b10cf1ccdc6feaad363</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 10:34:37</sys_updated_on>
+        <visualization/>
+        <w>15</w>
+        <widget_props/>
+        <x>26</x>
+        <y>5</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Nec booking details</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Nec booking details</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">7c2a2037715332100a229b13380c8b49</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 06:08:09</sys_created_on>
+        <sys_id>2ce0fe8f83520b10cf1ccdc6feaad37a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nec booking details</sys_name>
+        <sys_package display_value="NEC Travel Mgmt" source="x_2002450_nec_tr_0">a20ee68783520b10cf1ccdc6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEC Travel Mgmt">a20ee68783520b10cf1ccdc6feaad3bf</sys_scope>
+        <sys_update_name>sys_wizard_answer_2ce0fe8f83520b10cf1ccdc6feaad37a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 06:08:09</sys_updated_on>
+        <table/>
+        <target_url>x_2002450_nec_tr_0_nec_booking_details.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
